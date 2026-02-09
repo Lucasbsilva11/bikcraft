@@ -23,13 +23,9 @@
 }
 
 .header-menu a {
-  color: var(--cor-0);
   padding: 16px 0;
   display: inline-block;
-  font-size: 18px;
-  position: relative;
-  font-family: "Poppins", sans-serif;
-  font-weight: 400;
+  position: relative
 }
 
 /* UNDERLINE ANIMADO (DESKTOP) */
@@ -71,7 +67,6 @@
 @media (max-width: 600px) {
   .header {
     justify-content: center;
-    
   }
 
   .header-menu {
