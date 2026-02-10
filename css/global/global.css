@@ -5,6 +5,10 @@ body {
 }
 
 h1,
+h2,
+h3,
+h4,
+h5,
 ul,
 p {
   margin: 0px;
@@ -23,4 +27,9 @@ img {
 ul {
   padding: 0px;
   list-style: none;
+}
+
+/* Elemento para colocar estilos em lugares fixos, como jpg do site com arredondamento de bordas*/
+img[src$=".jpg"]{
+  border-radius: 4px;
 }
