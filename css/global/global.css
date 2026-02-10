@@ -31,7 +31,7 @@ ul {
   list-style: none;
 }
 
-/* Elemento para colocar estilos em lugares fixos, como jpg do site com arredondamento de bordas*/
+/* Elemento para colocar estilos em lugares fixos, como jpg do site com arredondamento de bordas,isso aplica em todos os arquivos de jpg ou arquivos que vc definir*/
 img[src$=".jpg"] {
   border-radius: 4px;
 }
