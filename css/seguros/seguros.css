@@ -73,4 +73,8 @@
   .seguros {
     grid-template-columns: 1fr;
   }
+
+  .seguros h2{
+    font-size: 0.9rem;
+  }
 }

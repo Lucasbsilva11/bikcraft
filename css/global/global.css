@@ -1,7 +1,7 @@
 body {
   margin: 0px;
+  color: #111111;
   font-family: Arial, Helvetica, sans-serif;
-  height: 2000px;
 }
 
 h1,
@@ -11,6 +11,7 @@ h4,
 h5,
 ul,
 p,
+dd,
 span,
 blockquote {
   margin: 0px;
@@ -23,6 +24,7 @@ a {
 
 img {
   max-width: 100%;
+  height: auto;
   display: block;
 }
 

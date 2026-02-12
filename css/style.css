@@ -29,6 +29,8 @@
 
 /* Seguros */
 @import url(seguros/seguros.css);
+@import url(seguros/vantangens.css);
+@import url(seguros/perguntas.css);
 
 /* termos */
 @import url(termos/termos.css);
