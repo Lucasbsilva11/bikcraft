@@ -70,8 +70,14 @@
   .seguros-bg {
     background: var(--cor-11);
   }
+  
   .seguros {
+    padding-top: none;
     grid-template-columns: 1fr;
+  }
+  
+  .titulo{
+    padding-bottom: 0px;
   }
 
   .seguros h2{
