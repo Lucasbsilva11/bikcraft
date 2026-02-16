@@ -2,7 +2,6 @@
 @import url(global/header.css);
 @import url(global/footer.css);
 
-
 /* UTILIDADES */
 /* Tipografia */
 @import url(utilidades/tipografica.css);
@@ -15,8 +14,6 @@
 
 /* formulários */
 @import url(utilidades/formulario.css);
-
-
 
 
 /* Home */
@@ -41,9 +38,13 @@
 @import url(seguros/vantangens.css);
 @import url(seguros/perguntas.css);
 
-/* termos */
-@import url(termos/termos.css);
-
 /* contato*/
 @import url(contato/contato.css);
 @import url(contato/lojas.css);
+
+/* Orçamento */
+@import url(orcamento/orcamento.css);
+
+
+/* termos */
+@import url(termos/termos.css);
