@@ -5,6 +5,7 @@
 /* UTILIDADES */
 /* Tipografia */
 @import url(utilidades/tipografica.css);
+@import url(utilidades/animacao.css);
 
 /* CORES */
 @import url(utilidades/cores.css);
